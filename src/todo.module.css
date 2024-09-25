@@ -1,0 +1,18 @@
+.container {
+  background-color: #1b1a41;
+  min-height: 200px;
+  width: 29rem;
+  padding: 15px 10px;
+  border-radius: 20px;
+}
+.container input {
+  height: 3rem;
+  width: 98%;
+  border-radius: 20px;
+  padding: 10px;
+  color: white;
+  font-weight: 600;
+  background-color: transparent;
+  margin-bottom: 1rem;
+  font-size: 25px;
+}
